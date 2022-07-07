@@ -1,0 +1,78 @@
+.parent{
+   margin-top: 20px;
+   /* display:flex ;
+   justify-content: center;
+   align-items: center; */
+}
+.MobileCintainer{
+    /* background-color: rgb(16, 64, 80); */
+    background: linear-gradient(160deg, wheat,skyblue);
+    height: 200px;
+    width:50% ;
+    margin-left: 300px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(73, 32, 207);
+}
+.Mobile-img{
+    background-color: purple;
+    width: 200px;
+    height: 95%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.Mobile-img img{
+    height: 100%;
+    width: inherit;
+}
+.MobileInfo{
+    /* background-color:rgb(227, 195, 201); */
+    width: 600px;
+    height: 95%;
+    margin-right: 5px;
+}
+.Mobile-name{
+    font-size: 15px;
+    font-weight: bold;
+}
+.Mobile-rating{
+    font-size: 30px;
+    color: blue;
+}
+.Mobile-price{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.Mobile-deal{
+    background-color: brown;
+    color: white;
+    width: 80px;
+    padding: 2px;
+    font-size: small;
+    margin-top: -10px;
+}
+.Mobile-saving{
+    font-size: 15px;
+
+}
+.Mobile-prime{
+    /* position: relative; */
+    margin-top: -10px;
+}
+.addcart{
+    background-color: rgb(206, 137, 159);
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 200px;
+    /* position: absolute;
+    top: 270px;
+    right: 400px; */
+    font-size: 15px;
+    font-weight: bold;
+}
+.addcart:hover{
+    font-size: large;
+}
