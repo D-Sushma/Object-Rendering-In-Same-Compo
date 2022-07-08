@@ -23,7 +23,7 @@ export default function Card() {
         <>
             <div className="parent">
         
-                {/* 7. this {} braces not to forget to put bcz we write js otherwise show the error */}
+                {/* 7. this {} braces not to forget to put bcz we write js otherwise show the error. */}
 
                 {
 
