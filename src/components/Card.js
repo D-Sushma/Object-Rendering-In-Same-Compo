@@ -22,6 +22,8 @@ export default function Card() {
     return (
         <>
             <div className="parent">
+        
+                {/* 7. this {} braces not to forget to put bcz we write js otherwise show the error */}
 
                 {
 
